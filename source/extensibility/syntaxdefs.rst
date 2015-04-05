@@ -485,7 +485,7 @@ We'll use this rule to style nested complex fields in snippets:
 This is the most complex pattern we'll see in this tutorial. The ``begin`` and
 ``end`` keys are self-explanatory: they define a region enclosed between
 ``${<NUMBER>:`` and ``}``. We need to wrap the begin pattern into quotes because
-otherwise the trailing ``:`` would indicate the parser to expect another
+otherwise the trailing ``:`` would tell the parser to expect another
 dictionary key. ``beginCaptures`` further divides the begin mark into smaller
 scopes.
 
