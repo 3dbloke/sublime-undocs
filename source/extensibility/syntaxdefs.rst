@@ -76,8 +76,8 @@ any other language.
 
 Sublime Text inherits the idea of scopes from Textmate, a text editor for Mac.
 `Textmate's online manual`_ contains further information about scope selectors
-that's useful for Sublime Text users too. Especially Color Schemes make
-excessive usage of scopes to style every aspect of a language in the desired
+that's useful for Sublime Text users too. In particular, Color Schemes make
+extensive use of scopes to style every aspect of a language in the desired
 color.
 
 .. _`Textmate's online manual`: http://manual.macromates.com/en/scope_selectors
