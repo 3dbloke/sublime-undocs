@@ -221,7 +221,7 @@ For our example, fill the template with the following information::
 Analyzing Patterns
 ******************
 
-The ``patterns`` array can contain several types of elements. We'll look at some
+The ``patterns`` array can contain several types of element. We'll look at some
 of them in the following sections. If you want to learn more about patterns,
 refer to Textmate's online manual.
 
