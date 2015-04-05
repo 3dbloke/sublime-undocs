@@ -602,4 +602,4 @@ creation of syntax definitions.
 .. seealso::
 
     :doc:`/reference/syntaxdefs`
-        Reference for snytax definitions
+        Reference for syntax definitions
